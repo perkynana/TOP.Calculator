@@ -88,8 +88,6 @@ function addDecimal() {
     }
 }
 
-
-
 function surprise() {
-    alert("Thank you for looking after me!")
+    alert("Just another alert")
 }
